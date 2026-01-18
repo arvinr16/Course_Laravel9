@@ -1,0 +1,22 @@
+==> Introduction <==
+Apa sebenarnya itu Laravel? = Laravel adalah Framework pembuat website yang sangat populer di Indonesia. Laravel ini berbasis bahasa-
+                              Pemrograman PHP. Banyak dari perusahaan di Indonesia mengadopsi Laravel sebagai bagian dari sistem website-
+                              perusahaan tersebut. Laravel juga memiliki banyak fitur bawaan, sehingga kita sebagai developer tidak-
+                              perlu memikirkan hal-hal yang kecil atau sepele.
+Sebelum menggunakan Laravel = Ada beberapa hal yang harus dipersiapkan terlebih dahulu sebelum menggunakan framework Laravel...
+Outcomes: 1. Object Oriented Programming in PHP = Nantinya kita akan belajar paradigma OOP di dalam PHP.
+          2. Basic of Relational Database = Nantinya kita akan mempelajari basic dari Relational Database, juga nantinya kita akan-
+                                            belajar menggunakan/mengoperasikan MySQL.
+          3. Migrations = Nantinya kita akan mempelajari Migrasi dan kegunaannya.
+          4. Routing    = Nantinya kita akan mempelajari Routing pada website.
+          5. Models, Views, Controllers = Nantinya kita akan mempelajari dasar dari Laravel yaitu Models, Views, dan Controllers.
+          6. Eloquent ORM = Nantinya kita akan mempelajari dan mengimplementasikan Eloquent ORM(Object Relational Mapping).
+          7. Authentication = Kemudian kita akan mengimplementasikan fitur Authentication, misalkan Login/Logout, forgot password,-
+                              register.
+          8. Middleware    = Nantinya juga kita akan mempelajari apa itu Middleware.
+          9. File Storage  = Kemudian nantinya kita juga akan memgimplementasikan File Storage pada website kita.
+          10. Localization = Kita juga nantinya akan mengimplementasikan Localization pada website kita, misal kita bisa berganti bahasa-
+                             Indonesia dan juga bahasa Inggris.
+          11. Testing = Dan untuk yang terakhir kita akan melakukan Testing pada website Laravel yang sudah kita buat.
+Tujuan Akhir: Tujuan akhir dari Course ini adalah kita bisa membuat website E-Commerce kita sendiri.
+<========================================================================================================================================>
