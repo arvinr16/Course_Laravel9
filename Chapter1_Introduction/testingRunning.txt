@@ -1,0 +1,8 @@
+==> Chapter 1 - Introduction <==
+
+=> Kita bisa melakukan testing sebelum lanjut ke Chapter selanjutnya. Pertama-tama kita bisa membuka file explorer jika menggunakan-
+   Windows, lalu kita bisa buka path file di XAMPP terus di dalam 'htdocs', atau biasanya file pathnya itu 'C:\xampp\htdocs' seperti itu.
+   Selanjutnya setelah kita berada di path file itu,-
+   kita bisa menggunakan command seperti ini 'composer create-project laravel/laravel:^9.0 (nama project)'. Setelah kita menggunakan-
+   command itu, maka kita tunggu saja Laravel akan segera di Instal ke device kita.
+<========================================================================================================================================>
