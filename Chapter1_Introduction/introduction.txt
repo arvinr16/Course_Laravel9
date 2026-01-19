@@ -1,4 +1,4 @@
-==> Chapter 1 Introduction <==
+==> Chapter 1 - Introduction <==
 => Apa sebenarnya itu Laravel? = Laravel adalah Framework pembuat website yang sangat populer di Indonesia. Laravel ini berbasis bahasa-
                               Pemrograman PHP. Banyak dari perusahaan di Indonesia mengadopsi Laravel sebagai bagian dari sistem website-
                               perusahaan tersebut. Laravel juga memiliki banyak fitur bawaan, sehingga kita sebagai developer tidak-
