@@ -8,7 +8,14 @@
                               Kita bisa menggunakan:
                               1. XAMPP = Software yang menyediakan beberapa service, yang nantinya kita akan menggunakan service Apache-
                                          dan MySQL.
-                              2. 
+                              2. MAMP  = Gunakan software MAMPP bagi yang menggunakan device Apple atau laptop Mac sebagai alat untuk-
+                                         menjalankan service Apache dan MySQL.
+                              3. Composer = Dependency manager untuk PHP yang nantinya akan digunakan untuk mengelola library/ package-
+                                            PHP secara otomatis, mirip seperti NPM di Javascript, PIP di Python. Fungsi utamanya adalah-
+                                            untuk mengunduh libary PHP seperti Laravel, Symfony, Guzzle, dll, terus bisa mengatur versi-
+                                            libary agar tidak bentrok, dll kegunaannya.
+                              4. Visual Studio Code = Text editor atau kode editor yang nantinya bisa kita gunakan untuk mengedit,-
+                                                      mengelola, dan mengembangkan kode program kita.
 
 
 <========================================================================================================================================>
